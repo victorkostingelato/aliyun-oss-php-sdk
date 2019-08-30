@@ -1,5 +1,5 @@
 {
-    "name": "maximin/aliyun-oss-php-sdk",
+    "name": "victorkostingelato/aliyun-oss-php-sdk",
     "description": "Aliyun OSS SDK for PHP",
     "homepage": "http://www.aliyun.com/product/oss/",
     "type": "library",
